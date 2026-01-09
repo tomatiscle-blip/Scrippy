@@ -1,0 +1,7 @@
+{
+  "name": "Super Lector AI",
+  "description": "Una aplicación avanzada para leer, analizar y procesar cualquier texto o documento utilizando la inteligencia artificial de Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
